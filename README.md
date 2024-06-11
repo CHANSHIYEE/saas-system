@@ -1,2 +1,24 @@
-# saas-system
-此仓库为信息系统分析与设计的小组作业的代码库，项目为生鲜产品供应管理信息系统
+# vue-appfresh
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
